@@ -15,5 +15,6 @@ public class Runner {
         System.out.println(animals.numWordsOfLength(2));
 
         animals.removeWordsOfLength(4);
+        System.out.println(animals);
     }
 }
